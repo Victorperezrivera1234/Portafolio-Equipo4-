@@ -12,6 +12,3 @@ void loop(){
     digitalWrite(pinLED,HIGH);
   }
 }
-
-  
-  
