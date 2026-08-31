@@ -1,3 +1,2 @@
-CircuitoDeLED
-
-En este circuito un LED rojo esta prendido indefinidamente hasta que se haga la pulsación del pulsador; en ese momento el LED se apagará por la duración que el usuario mantenga presionado el pulsador.
+# CircuitoDeLEDV1
+En esta carpeta están las partes que se utilizaron para realizar este proyecto. Este circuito consiste de un foco LED rojo y un pulsador. Al iniciarse el programa, el LED se prenderá indefinidamente. Cuando el pulsador sea presionado, el LED se apagará. El LED se mantendrá apagado mientras que el pulsador esté siendo presionado. Si el pulsador es liberado, el LED se volverá a encender.
