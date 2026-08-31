@@ -1,2 +1,2 @@
 # CircuitoJuegoDeLEDsV1
-En esta carpeta están las partes que se utilizaron para realizar este circuito.
+En esta carpeta están las partes que se utilizaron para realizar este proyecto. El objetivo de este era crear un juego que consistiera de 3 focos LED y 3 pulsadores, uno para cada LED. Al iniciar el programa, un LED aleatorio se prendería y el usuario tendría que presionar su pulsador respectivo para apagarlo. En caso de presionar el pulsador equivocado, no pasaría nada. Sin embargo, si el pulsador correcto fuera presionado, el LED se apagaría y otro distinto se prendería. Este siguiente LED tambien solo pudiera ser apagado mediante su respectivo pulsador. Este juego continuará indefinidamente. 
