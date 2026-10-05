@@ -1,1 +1,2 @@
-
+# Circuito de control inalámbrico de un LED
+El objetivo de este circuito es controlar el encendido y apagado de un LED mediante comunicación inalámbrica utilizando un módulo Bluetooth HC-05 y un Arduino. Para ello, el proyecto incluye la configuración inicial del módulo Bluetooth mediante comandos AT, así como el programa encargado de recibir los comandos enviados desde una computadora y controlar el LED conectado al pin 13 del Arduino. Dentro de esta carpeta se incluyen los códigos correspondientes al setup y al funcionamiento del circuito, las conexiones y esquemática del circuito, una prueba de funcionamiento y el reporte del proyecto, donde se documenta el proceso de elaboración, configuración y funcionamiento del sistema.
