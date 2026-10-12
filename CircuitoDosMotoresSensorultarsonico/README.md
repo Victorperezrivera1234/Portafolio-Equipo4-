@@ -1,1 +1,2 @@
-
+#CircuitoDosMotoresSensorultrasonico
+Esta carpeta contiene los archivos correspondientes al circuito de control de dos motores DC mediante Arduino, un controlador L293D, un sensor ultrasónico HC-SR04 y un buzzer para alertas durante la reversa. El objetivo del proyecto, fue crear un sistema de reversa para vehículos motorizados; el sistema tenía que emitir una frecuencia sonora de alerta con una frecuencia de emisión mayor conforme a la distancia del sensor. 
